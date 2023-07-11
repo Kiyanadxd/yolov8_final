@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>test26.jpg</filename>
+		<size>
+			<width>3024</width>
+			<height>4032</height>
+			<depth>3</depth>
+		</size>
+	</annotation>

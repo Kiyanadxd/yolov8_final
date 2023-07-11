@@ -1,0 +1,13 @@
+使用正向tag：masterpiece, best quality, EasyNegative negative_hand-neg NegfeetV2 pureerosface_v1, full body, on back, lying on back, lying, lying down, laying down, laying, on stomach, lying on stomach,  on belly, on front
+
+使用反向tag：lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry
+
+使用大模型：majicmixRealistic_v6.safetensors(真人仿真模型)
+
+T.I.Embedding：EsayNegiative，negative_hand-neg，NegfeetV2，pureerosface_v1
+
+由于电脑显卡配置低的原因，并没有使用Adetailer等面部、手部、肢体修复软件
+
+生图方法：图生图
+
+controlNet： 预处理器:tile_resample    模型:control_v11fle_sd15_tile

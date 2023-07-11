@@ -1,0 +1,6 @@
+train: F:/Project_recog/falldetection-master/data/v3/train.txt
+val: F:/Project_recog/falldetection-master/data/v3/val.txt
+
+nc: 1
+
+names: ["fall"]

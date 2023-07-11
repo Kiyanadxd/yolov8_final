@@ -1,0 +1,11 @@
+F:\Project_recog\falldetection-master\data\v6\\images/test12.jpg
+F:\Project_recog\falldetection-master\data\v6\\images/test14.jpg
+F:\Project_recog\falldetection-master\data\v6\\images/test22.jpg
+F:\Project_recog\falldetection-master\data\v6\\images/test23.jpg
+F:\Project_recog\falldetection-master\data\v6\\images/test24.jpg
+F:\Project_recog\falldetection-master\data\v6\\images/test27.jpg
+F:\Project_recog\falldetection-master\data\v6\\images/test29.jpg
+F:\Project_recog\falldetection-master\data\v6\\images/test31.jpg
+F:\Project_recog\falldetection-master\data\v6\\images/test41.jpg
+F:\Project_recog\falldetection-master\data\v6\\images/test50.jpg
+F:\Project_recog\falldetection-master\data\v6\\images/test9.jpg
